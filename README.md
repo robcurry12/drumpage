@@ -1,2 +1,0 @@
-# drumpage
-A website I created, in summer of 2014, for my Youtube Channel so users can watch my latest videos as well as request covers for me to do. The original edition of this website featured a JQuery plugin that would display the latest video alongside a scrollable list of my 20 most recent drum covers. A user could click on any of these videos and it would display in the video screen and play. This plugin regrettably, has gone offline and would no longer appear on my webpage. As a replacement, I utilized the iframe element in HTML5 and embedded my most recent video.
